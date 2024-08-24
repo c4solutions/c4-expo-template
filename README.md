@@ -1,5 +1,12 @@
 # C4 Expo Template
 
+# to use as template
+
+```
+expo init my-new-project --template <your-repository-url>
+
+```
+
 ## to run project
 
 ```
