@@ -1,0 +1,5 @@
+{
+  "name": "C4Solutions Expo Template",
+  "description": "A custom Expo template with TypeScript and Prettier. Using Expo EAS but not Expo Go.",
+  "version": "1.0.0"
+}

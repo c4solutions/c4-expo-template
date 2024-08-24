@@ -44,7 +44,7 @@ if (getRNMinorVersion() >= 75) {
   }
 }
 
-rootProject.name = 'c4expotemplate'
+rootProject.name = 'c4-expo-template'
 
 dependencyResolutionManagement {
   versionCatalogs {

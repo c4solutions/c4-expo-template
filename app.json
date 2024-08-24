@@ -2,6 +2,30 @@
   "expo": {
     "name": "c4-expo-template",
     "slug": "c4-expo-template",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "scheme": "nameofproject",
+    "orientation": "portrait",
+    "icon": "./public/C4-Solutions.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./public/C4-Solutions.png",
+      "resizeMode": "contain"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a498c11e-b0a3-4f18-82fa-2b68349a1519"
+      }
+    },
+    "android": {
+      "package": "com.ayseboogie.c4expotemplate",
+      "adaptiveIcon": {
+        "foregroundImage": "./public/C4-Solutions.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./public/C4-Solutions.png"
+    }
   }
 }
