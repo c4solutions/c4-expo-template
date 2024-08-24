@@ -3,7 +3,8 @@
 # to use as template
 
 ```
-expo init my-new-project --template <your-repository-url>
+npx create-expo-app my-new-project --template https://github.com/c4solutions/c4-expo-template
+
 
 ```
 
